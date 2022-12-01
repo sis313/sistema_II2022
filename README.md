@@ -2,6 +2,9 @@
 
 Descripcion del proyecto
 
+1. Puede descargar el archivo .apk de ...
+2. Puede visitar la pagina de ...
+
 ### Manuales:
 
 * [Manual de instalacion](Manuales/ManualDeInstalacion.pdf)
