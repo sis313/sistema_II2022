@@ -6,7 +6,7 @@ Descripcion del proyecto
 
 * [Manual de instalacion](Manuales/ManualDeInstalacion.pdf)
 * [Manual de usuario](Manuales/ManualDeUsuarioCompleto.pdf)
-* [Documentación del Sistema](CasosDeUsoGeneral.pdf)
+* [Documentación del Sistema](Manuales/CasosDeUsoGeneral.pdf)
 
 Puede revisar los repositorios secundarios a este proyecto en:
 
