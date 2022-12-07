@@ -2,7 +2,7 @@
 
 Descripcion del proyecto
 
-1. Puede descargar el archivo .apk de [BoActive Mobile](https://github.com/sis313/sistema_II2022.mobile/releases/tag/v5.0)
+1. Puede descargar el archivo .apk de [BoActive Mobile](https://github.com/sis313/sistema_II2022.mobile/releases/tag/v5.1)
 2. Puede visitar la pagina de ...
 
 ### Manuales:
