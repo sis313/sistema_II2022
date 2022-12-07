@@ -2,7 +2,7 @@
 
 Descripcion del proyecto
 
-1. Puede descargar el archivo .apk de ...
+1. Puede descargar el archivo .apk de [Releases](https://github.com/sis313/sistema_II2022.mobile/releases)
 2. Puede visitar la pagina de ...
 
 ### Manuales:
